@@ -8,7 +8,7 @@ The University of Alabama in Huntsville - Spring 2025
 ## Labs 
 
 - **Lab 01**: AVAILABLE
-- **Lab 02**:  
+- **Lab 02**: AVAILABLE
 - **Lab 03**: 
 - **Lab 04**:   
 - **Lab 05**: 
